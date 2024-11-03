@@ -1,0 +1,14 @@
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe.config
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.pdb
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.dll
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QRCoder.dll
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.xml
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.AssemblyReference.cache
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.Form1.resources
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.Properties.Resources.resources
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.GenerateResource.cache
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.CoreCompileInputs.cache
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGe.20542853.Up2Date
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.exe
+C:\projects\QRKod\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.pdb
